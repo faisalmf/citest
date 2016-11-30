@@ -1,7 +1,7 @@
 <?php
 
-if ($test){
-	$test = FALSE;
+if ($test) {
+    $test = false;
 }
 
-ECHO "gello";
+echo "hello";
